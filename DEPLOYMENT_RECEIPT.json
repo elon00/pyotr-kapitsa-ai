@@ -1,0 +1,14 @@
+{
+  "project": "pyotr-kapitsa-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "BHf7zNiNf8K7sRErNeufnLe7Q9m63FLPJy5qPxY2c7Fd",
+  "vault_account": "Af9D7i2R79qupAHLUoA4tZodJQrfUYc439emfDNpyX4q",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "64stHZ6MnbMNwfpe9tnQBdDjwTRu7YUs2NrH7DUEL5XCbLSkkJCUXyXaxRKGGRyxsTSQzBuUk2JfjujtiWv4Rv6",
+  "account_tx": "zTmEc6HhxPXkCfDfNbduMGMjju1z2M9JFXrSvJ7jSWeZE1EDVdJEDjpqG27s5CbDeEL6vCz3PvC7yn9hgj4hvcu",
+  "mint_tx": "3SHBq8TXNnagkoPHSpBEuQPMmkrKix6gpTZLnkqTFnVGvs8yceLpfMFFvuwQjrr5kZitLCRFBQAsgHYg6zPRX7j2",
+  "solana_explorer_mint": "https://explorer.solana.com/address/BHf7zNiNf8K7sRErNeufnLe7Q9m63FLPJy5qPxY2c7Fd?cluster=devnet",
+  "timestamp": "2026-10-26 16:54:32 UTC"
+}
